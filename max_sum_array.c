@@ -61,10 +61,7 @@ int main()
         DivideNumber(i);
     }
     
-/*     for(int i=0; i<10; i++) {
-        printf("%d\t",count[i]);
-    } */
-    
+ 
     
     for(int i=0; i<10; i++) {
         if(count[i] > count[max]){
